@@ -1,3 +1,5 @@
+![Build](https://api.travis-ci.org/nilulin/conman.svg?branch=master)
+---
 ![CONMAN](https://github.com/nilulin/conman/blob/master/intro/logo.png?raw=true)
 mock any api ... without a server
 
