@@ -2,7 +2,7 @@
 ---
 ![CONMAN](https://github.com/nilulin/conman/blob/master/intro/logo.png?raw=true)
 
-### Conman is web-developer's utilty
+## Conman is web-developer's utilty
 Quite often we want to test out how our UI would look like on the live site.
 The usual setup involves a complicated setup of mock-servers, reverse proxy and possibly MITM (man in the middle proxies).
 
@@ -17,3 +17,7 @@ You can mock literally anything resource that is requested by the browser.
 - scripts
 - css
 - images
+
+----
+## Using Conman
+Conman 
