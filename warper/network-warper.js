@@ -1,4 +1,4 @@
-const mocks = require("./mock-resources").mocks;
+const mocks = require("../mock-resources").mocks;
 const fs = require("fs");
 
 const networkWarper = async interceptedRequest => {

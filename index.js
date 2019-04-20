@@ -1,6 +1,6 @@
 const puppeteer = require("puppeteer");
 const config = require("./config/launch-config").config;
-const liveViewHelper = require("./network-warper");
+const liveViewHelper = require("./warper/network-warper");
 const chalk = require("chalk");
 
 const liveViewDeskTop = async browser => {
