@@ -1,12 +1,12 @@
 exports.config = {
   url: "https://www.walmart.com/ip/Rain-X-Latitude-Water-Repellency-2-IN-1-Replacement-Windshield-Wiper-Blades-Product-Of-The-Year-2017/46543690",
   launchConfig: {          // Docs : https://github.com/GoogleChrome/puppeteer/blob/v1.14.0/docs/api.md#puppeteerlaunchoptions
-    headless: false, 
+    headless: false,
     devtools: true   
   },
   viewport: {              // Visit : https://github.com/GoogleChrome/puppeteer/blob/v1.14.0/docs/api.md#pagesetviewportviewport
-    width: 1200,
-    height: 900,
+    width: 1600,
+    height: 1024,
     deviceScaleFactor: 1,
     isMobile: false,
     hasTouch: false,
